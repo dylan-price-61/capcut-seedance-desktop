@@ -1,0 +1,3 @@
+# CapCut Seedance
+
+Utility scaffolding.
